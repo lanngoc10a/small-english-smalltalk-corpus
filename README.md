@@ -13,3 +13,4 @@ questions only: 250 txts in 1 folder
 
 it's too bad that i forgot to categorize them when crawling them from the internet.
 ```
+# small-english-smalltalk-corpus
